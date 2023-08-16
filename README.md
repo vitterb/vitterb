@@ -1,6 +1,6 @@
 - 👋 Hi, Bert Van Itterbeeck 
-- 👀 I’m a student of IT security and software development
-- 🌱 I’m currently learning at the AP school in Antwerpen
-- 💪 I am now studing in Ireland at the Dundalk institute of technology. 
+- 👀 I’m working for Dotnetlabs!
+- 🌱 I have recently graduated from the AP college in Antwerpen
+- 💪 I have also studied in Ireland at the Dundalk institute of technology. 
 
 
